@@ -21,3 +21,7 @@ Statewide: http://gis.utah.gov/data/aerial-photography/
 ## Vermont
 
 Statewide: http://vcgi.vermont.gov/opendata
+
+## New York
+
+Statewide: https://gis.ny.gov/gateway/mg/
